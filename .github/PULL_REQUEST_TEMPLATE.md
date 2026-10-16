@@ -10,6 +10,10 @@ Closes #
 
 <!-- How did you verify the change works? Browser, unit tests, e2e tests, manual steps — whatever applies. -->
 
+## Screenshots
+
+<!-- Before/after screenshots for any UI change. Delete this section if there isn't one. -->
+
 ## Checklist
 
 - [ ] `npm test` passes
